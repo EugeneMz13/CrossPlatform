@@ -1,0 +1,15 @@
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\bin\Debug\net6.0\Lab1_CP.exe
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\bin\Debug\net6.0\Lab1_CP.deps.json
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\bin\Debug\net6.0\Lab1_CP.runtimeconfig.json
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\bin\Debug\net6.0\Lab1_CP.dll
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\bin\Debug\net6.0\Lab1_CP.pdb
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\obj\Debug\net6.0\Lab1_CP.csproj.AssemblyReference.cache
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\obj\Debug\net6.0\Lab1_CP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\obj\Debug\net6.0\Lab1_CP.AssemblyInfoInputs.cache
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\obj\Debug\net6.0\Lab1_CP.AssemblyInfo.cs
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\obj\Debug\net6.0\Lab1_CP.csproj.CoreCompileInputs.cache
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\obj\Debug\net6.0\Lab1_CP.dll
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\obj\Debug\net6.0\refint\Lab1_CP.dll
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\obj\Debug\net6.0\Lab1_CP.pdb
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\obj\Debug\net6.0\Lab1_CP.genruntimeconfig.cache
+C:\Users\eugene\source\repos\Lab1_CP\Lab1_CP\obj\Debug\net6.0\ref\Lab1_CP.dll
