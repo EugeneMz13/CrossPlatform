@@ -1,0 +1,15 @@
+﻿@model IEnumerable<TaskAuthenticationAuthorization.Models.Lab1Model>
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.x)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.y)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.answer)
+        </td>
+    </tr>
+}

@@ -1,0 +1,12 @@
+﻿@model TaskAuthenticationAuthorization.Models.Customer
+
+@if (Model != null)
+{
+    <h1>Discount for @Model.FirstName @Model.LastName is: @Model.Discount</h1>
+}
+else
+{
+    <h1>There are no discounts for admins</h1>
+}
+@*
+<h1>This is Discount page</h1>*@
