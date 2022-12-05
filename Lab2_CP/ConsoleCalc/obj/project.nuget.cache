@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "kwiobIwtB+VGOnlAt+jC598oKaVEOq1JtIqCyK8JRRPV+Hq97VlkwfcgyIduF+sY2+K9epB/TMjU01wY3QSd7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eugene\\source\\repos\\ConsoleCalc\\ConsoleCalc\\ConsoleCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eugene\\.nuget\\packages\\extreme.numerics\\8.1.7\\extreme.numerics.8.1.7.nupkg.sha512",
+    "C:\\Users\\eugene\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\eugene\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\eugene\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\eugene\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\eugene\\.nuget\\packages\\rychusoft.numericallibraries.calculator\\1.1.1\\rychusoft.numericallibraries.calculator.1.1.1.nupkg.sha512",
+    "C:\\Users\\eugene\\.nuget\\packages\\rychusoft.numericallibraries.common\\1.1.1\\rychusoft.numericallibraries.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\eugene\\.nuget\\packages\\rychusoft.numericallibraries.derivative\\1.1.1\\rychusoft.numericallibraries.derivative.1.1.1.nupkg.sha512",
+    "C:\\Users\\eugene\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\eugene\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\eugene\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\eugene\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\eugene\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

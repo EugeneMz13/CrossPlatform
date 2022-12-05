@@ -1,0 +1,205 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleCalc/1.0.0": {
+        "dependencies": {
+          "Extreme.Numerics": "8.1.7",
+          "MathNet.Numerics": "5.0.0",
+          "Rychusoft.NumericalLibraries.Derivative": "1.1.1"
+        },
+        "runtime": {
+          "ConsoleCalc.dll": {}
+        }
+      },
+      "Extreme.Numerics/8.1.7": {
+        "dependencies": {
+          "Microsoft.Win32.Registry": "5.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Extreme.Numerics.dll": {
+            "assemblyVersion": "8.1.7.0",
+            "fileVersion": "8.1.22144.0"
+          }
+        }
+      },
+      "MathNet.Numerics/5.0.0": {
+        "runtime": {
+          "lib/net6.0/MathNet.Numerics.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/5.0.0": {},
+      "Microsoft.NETCore.Targets/1.1.0": {},
+      "Microsoft.Win32.Registry/5.0.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "5.0.0",
+          "System.Security.Principal.Windows": "5.0.0"
+        }
+      },
+      "Rychusoft.NumericalLibraries.Calculator/1.1.1": {
+        "dependencies": {
+          "Rychusoft.NumericalLibraries.Common": "1.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Rychusoft.NumericalLibraries.Calculator.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.0"
+          }
+        }
+      },
+      "Rychusoft.NumericalLibraries.Common/1.1.1": {
+        "dependencies": {
+          "System.Drawing.Primitives": "4.3.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Rychusoft.NumericalLibraries.Common.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.0"
+          }
+        }
+      },
+      "Rychusoft.NumericalLibraries.Derivative/1.1.1": {
+        "dependencies": {
+          "Rychusoft.NumericalLibraries.Calculator": "1.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Rychusoft.NumericalLibraries.Derivative.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.0"
+          }
+        }
+      },
+      "System.Drawing.Primitives/4.3.0": {
+        "dependencies": {
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0"
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "5.0.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "System.Runtime.Extensions/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "5.0.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Security.AccessControl/5.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "5.0.0",
+          "System.Security.Principal.Windows": "5.0.0"
+        }
+      },
+      "System.Security.Principal.Windows/5.0.0": {}
+    }
+  },
+  "libraries": {
+    "ConsoleCalc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Extreme.Numerics/8.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IVAlofHtADyQ6fvLVq0fry61SZbVHuDdFhCPiSzevxpaa4csYkQDWOgvnNWgDq0FXUkc2Ya/chVJ3WosmUDhog==",
+      "path": "extreme.numerics/8.1.7",
+      "hashPath": "extreme.numerics.8.1.7.nupkg.sha512"
+    },
+    "MathNet.Numerics/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pg1W2VwaEQMAiTpGK840hZgzavnqjlCMTVSbtVCXVyT+7AX4mc1o89SPv4TBlAjhgCOo9c1Y+jZ5m3ti2YgGgA==",
+      "path": "mathnet.numerics/5.0.0",
+      "hashPath": "mathnet.numerics.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VyPlqzH2wavqquTcYpkIIAQ6WdenuKoFN0BdYBbCWsclXacSOHNQn66Gt4z5NBqEYW0FAPm5rlvki9ZiCij5xQ==",
+      "path": "microsoft.netcore.platforms/5.0.0",
+      "hashPath": "microsoft.netcore.platforms.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
+      "path": "microsoft.netcore.targets/1.1.0",
+      "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.Registry/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dDoKi0PnDz31yAyETfRntsLArTlVAVzUzCIvvEDsDsucrl33Dl8pIJG06ePTJTI3tGpeyHS9Cq7Foc/s4EeKcg==",
+      "path": "microsoft.win32.registry/5.0.0",
+      "hashPath": "microsoft.win32.registry.5.0.0.nupkg.sha512"
+    },
+    "Rychusoft.NumericalLibraries.Calculator/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dpBhSN4BouVXyuuZOOkIIuJ1zm6ASMjRhs1kZpeD+WJMM9N6vyhm7h/cjh6nI3dyIYXc4vKiF8NOVkzeIPVq1g==",
+      "path": "rychusoft.numericallibraries.calculator/1.1.1",
+      "hashPath": "rychusoft.numericallibraries.calculator.1.1.1.nupkg.sha512"
+    },
+    "Rychusoft.NumericalLibraries.Common/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cSOuiyOBKGIN27Esr9D7xU0lIhsdNPBQAPLEds7naZCqF9Gu8camb++K7EqXto7Xm+9mfc6DtqgEdhwSrx69IQ==",
+      "path": "rychusoft.numericallibraries.common/1.1.1",
+      "hashPath": "rychusoft.numericallibraries.common.1.1.1.nupkg.sha512"
+    },
+    "Rychusoft.NumericalLibraries.Derivative/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OeuetlGNH7UKgDPm2R4ownfSVyaUi8GfJ5CgtpdEBJvDa641fExj3HTLc6xxa/MXRs2/TpuV+E29ke/knNRwag==",
+      "path": "rychusoft.numericallibraries.derivative/1.1.1",
+      "hashPath": "rychusoft.numericallibraries.derivative.1.1.1.nupkg.sha512"
+    },
+    "System.Drawing.Primitives/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1QU/c35gwdhvj77fkScXQQbjiVAqIL3fEYn/19NE0CV/ic5TN5PyWAft8HsrbRd4SBLEoErNCkWSzMDc0MmbRw==",
+      "path": "system.drawing.primitives/4.3.0",
+      "hashPath": "system.drawing.primitives.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime.Extensions/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-guW0uK0fn5fcJJ1tJVXYd7/1h5F+pea1r7FLSOz/f8vPEqbR2ZAknuRDvTQ8PzAilDveOxNjSfr0CHfIQfFk8g==",
+      "path": "system.runtime.extensions/4.3.0",
+      "hashPath": "system.runtime.extensions.4.3.0.nupkg.sha512"
+    },
+    "System.Security.AccessControl/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dagJ1mHZO3Ani8GH0PHpPEe/oYO+rVdbQjvjJkBRNQkX4t0r1iaeGn8+/ybkSLEan3/slM0t59SVdHzuHf2jmw==",
+      "path": "system.security.accesscontrol/5.0.0",
+      "hashPath": "system.security.accesscontrol.5.0.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t0MGLukB5WAVU9bO3MGzvlGnyJPgUlcwerXn1kzBRjwLKixT96XV0Uza41W49gVd8zEMFu9vQEFlv0IOrytICA==",
+      "path": "system.security.principal.windows/5.0.0",
+      "hashPath": "system.security.principal.windows.5.0.0.nupkg.sha512"
+    }
+  }
+}
